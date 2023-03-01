@@ -13,3 +13,25 @@
   margin-right: 10px;
 
 }
+
+.col-sm{
+  background-color: lightblue;
+}
+
+.grid-item-1{
+  background-color: cornflowerblue;
+}
+
+.container-text-center{
+  background-color: darkblue;
+
+}
+
+.grid-item{
+  background-color:cornflowerblue;
+}
+
+.grid-item-2{
+  background-color:lightskyblue;
+}
+
